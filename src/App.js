@@ -3,12 +3,7 @@
 import Navbar from "./components/Navbar";
 import Textform from "./components/Textform";
 import Alert from "./components/Alert";
-import{
-  BrowserRouter as router,
-  Switch,
-  Route,
-  Link
-}from "react-router-dom";
+
 import React,{useState} from 'react'
 
 function App() {
